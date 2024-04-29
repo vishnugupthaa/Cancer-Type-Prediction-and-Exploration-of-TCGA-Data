@@ -17,7 +17,7 @@ This project aims to develop a machine learning model to classify cancer subtype
 
 ## Dataset
 The primary dataset is sourced from the TCGA Pan Cancer analysis project, with additional data from the UCI Machine Learning Repository to enhance model performance.
-
+you can find the dataset at https://archive.ics.uci.edu/dataset/401/gene+expression+cancer+rna+seq
 ## Deliverables
 - **Source Code:** Available on GitHub.
 - **Jupyter Notebooks:** Illustrate the analysis and model training process.
