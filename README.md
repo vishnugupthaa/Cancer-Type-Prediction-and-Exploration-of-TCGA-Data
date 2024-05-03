@@ -32,9 +32,6 @@ pip install -r requirements.txt
 ## Results
 For results, including plots, tables, and figures, please see the Results Section in the documentation.
 
-## Contributing
-We welcome contributions! Please see the Contributing Guidelines for how to make contributions.
-
 ## Acknowledgments
 - TCGA Pan Cancer analysis project
 - UCI Machine Learning Repository
