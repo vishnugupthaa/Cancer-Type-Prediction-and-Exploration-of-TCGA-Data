@@ -25,7 +25,9 @@ you can find the dataset at https://archive.ics.uci.edu/dataset/401/gene+express
 - **Documentation:** Detailed project documentation for replication and further development.
 
 ## Installation and Execution
-Please refer to the Installation Guide for detailed instructions on setting up the environment and running the code.
+To Install the required packages use the below command
+```bash
+pip install -r requirements.txt
 
 ## Results
 For results, including plots, tables, and figures, please see the Results Section in the documentation.
