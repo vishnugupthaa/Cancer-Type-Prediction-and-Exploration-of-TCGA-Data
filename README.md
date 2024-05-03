@@ -26,9 +26,9 @@ you can find the dataset at https://archive.ics.uci.edu/dataset/401/gene+express
 
 ## Installation and Execution
 To Install the required packages use the below command
-```bash
+```python
 pip install -r requirements.txt
-
+```
 ## Results
 For results, including plots, tables, and figures, please see the Results Section in the documentation.
 
